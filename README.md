@@ -38,3 +38,21 @@ This repository provides a curated list of papers about social recommender syste
     * url: [paper](https://cse.hkust.edu.hk/~raywong/paper/wsdm21-SEFrame.pdf) and [code](https://github.com/twchen/SEFrame)
     * DataSet: [Gowalla](https://snap.stanford.edu/data/loc-gowalla.html), [Delicious](https://grouplens.org/datasets/hetrec-2011/) and [Foursquare](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)
     * Metrics: *HR@K* and *MRR@K*
+
+* WSDM2021: **Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks**
+    * Author: Xichuan Niu, Bofang Li, Chenliang Li, Jun Tan, Rong Xiao, and Hongbo Deng
+    * url: [paper](https://sci-hub.se/https://doi.org/10.1145/3437963.3441729)
+    * DataSet: Taobao
+    * Metrics: *AUC*, *GAUC*,  *MRR* and *HR@K* 
+
+* AAAI2021: **Who You Would Like to Share With? A Study of Share Recommendation in Social E-commerce**
+    * Author: Houye Ji, Junxiong Zhu, Xiao Wang, Chuan Shi, Bai Wang, Xiaoye Tan, Yanghua Li and Shaojian He
+    * url: [paper](https://www.aaai.org/AAAI21Papers/AAAI-1214.JiH.pdf)
+    * DataSet: Taobao
+    * Metrics: *AUC*
+
+* WCMC2021: **Hierarchical Social Recommendation Model Based on a Graph Neural Network**
+    * Author: Zhongqin Bi, Lina Jing, Meijing Shan, Shuming Dou and Shiyang Wang
+    * url: [paper](https://downloads.hindawi.com/journals/wcmc/2021/9107718.pdf)
+    * DataSet: [Ciao](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm) and [Epinion](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm)
+    * Metrics: *MAE* and *RMSE*
