@@ -56,3 +56,16 @@ This repository provides a curated list of papers about social recommender syste
     * url: [paper](https://downloads.hindawi.com/journals/wcmc/2021/9107718.pdf)
     * DataSet: [Ciao](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm) and [Epinion](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm)
     * Metrics: *MAE* and *RMSE*
+
+## 2020
+* TKDE2020: **A Graph Neural Network Framework for Social Recommendations**
+    * Author: Wenqi Fan, Yao Ma, Qing Li, Jianping Wang, Jiliang Tang and Dawei Yin
+    * url: [paper](https://sci-hub.se/10.1109/TKDE.2020.3008732)
+    * DataSet: [Ciao](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm), [Epinion](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm) and Flixster
+    * Metrics: *MAE* and *RMSE*
+ 
+* TKDE2020: **Modelling High-Order Social Relations for Item Recommendation**
+    * Author: Yang Liu, Liang Chen, Xiangnan He, Jiaying Peng, Zibin Zheng and Jie Tang
+    * url: [paper](https://arxiv.org/pdf/2003.10149.pdf)
+    * DataSet: [Douban](https://github.com/librahu/HIN-Datasets-for-Recommendation-and-Network-Embedding) and [Yelp](https://www.yelp.com/)
+    * Metrics: *Recall@K* and *NDCG@K*
