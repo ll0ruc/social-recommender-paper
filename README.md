@@ -69,3 +69,15 @@ This repository provides a curated list of papers about social recommender syste
     * url: [paper](https://arxiv.org/pdf/2003.10149.pdf)
     * DataSet: [Douban](https://github.com/librahu/HIN-Datasets-for-Recommendation-and-Network-Embedding) and [Yelp](https://www.yelp.com/)
     * Metrics: *Recall@K* and *NDCG@K*
+
+* CIKM2020: **Partial Relationship Aware Influence Diffusion via a Multi-channel Encoding Scheme for Social Recommendation**
+    * Author: Bo Jin, Ke Cheng, Liang Zhang, Yanjie Fu, Minghao Yin and Lu Jiang
+    * url: [paper](https://sci-hub.se/https://doi.org/10.1145/3340531.3412016)
+    * DataSet: [Yelp](https://www.yelp.com/) and Flickr
+    * Metrics: *HR@K* and *NDCG@K*
+
+* CIKM2020: **DREAM: A Dynamic Relational-Aware Model for Social Recommendation**
+    * Author: Liqiang Song, Ye Bi, Mengqiu Yao, Zhenyu Wu, Jianming Wang and Jing Xiao
+    * url: [paper](https://arxiv.org/pdf/2008.04579.pdf)
+    * DataSet: [Epinion](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm) and [Douban-Movie](https://movie.douban.com/)
+    * Metrics: *Recall@K*, *NDCG@K* and *MRR*
