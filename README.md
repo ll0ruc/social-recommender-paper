@@ -12,7 +12,7 @@ This repository provides a curated list of papers about social recommender syste
 - [Collaborative Filtering](#Collaborative Filtering)
 </p></blockquote>
 
-##Graph-based
+## Graph-based
 ### 2021
 * WWW2021: **Dual Side Deep Context-aware Modulation for Social Recommendation**
     * Author: Bairan Fu, Wenming Zhang, Guangneng Hu, Xinyu Dai, Shujian Huang and Jiajun Chen
@@ -137,7 +137,7 @@ This repository provides a curated list of papers about social recommender syste
     * Metrics: *Recall@K* and *NDCG@K*  
  
 
-##Neural Network
+## Neural Network
 ### 2019
 * SIGIR2019: **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation**
     * Author: Chong Chen, Min Zhang, Chenyang Wang, Weizhi Ma, Minming Li, Yiqun Liu and Shaoping Ma
