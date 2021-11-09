@@ -138,6 +138,7 @@ This repository provides a curated list of papers about social recommender syste
  
 
 ## Neural Network
+
 ### 2019
 * SIGIR2019: **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation**
     * Author: Chong Chen, Min Zhang, Chenyang Wang, Weizhi Ma, Minming Li, Yiqun Liu and Shaoping Ma
