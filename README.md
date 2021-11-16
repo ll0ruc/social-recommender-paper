@@ -8,7 +8,7 @@ This repository provides a curated list of papers about social recommender syste
 <summary><b>Expand Table of Contents</b></summary><blockquote><p align="justify">
 
 - [Graph-based](#Graph-based)
-- [Neural Network](#Neural Network)
+- [Neural Network](#Neural-Network)
 - [Collaborative Filtering](#Collaborative Filtering)
 </p></blockquote>
 
@@ -137,7 +137,7 @@ This repository provides a curated list of papers about social recommender syste
     * Metrics: *Recall@K* and *NDCG@K*  
  
 
-## Neural Network
+## Neural-Network
 
 ### 2019
 * SIGIR2019: **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation**
