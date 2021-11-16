@@ -9,7 +9,7 @@ This repository provides a curated list of papers about social recommender syste
 
 - [Graph-based](#Graph-based)
 - [Neural Network](#Neural-Network)
-- [Collaborative Filtering](#Collaborative Filtering)
+- [Collaborative Filtering](#Collaborative-Filtering)
 </p></blockquote>
 
 ## Graph-based
@@ -167,5 +167,40 @@ This repository provides a curated list of papers about social recommender syste
 ### 2018
 * WWW2018: **Network Embedding Based Recommendation Method in Social Networks**
     * Author: Yufei Wen, Zhumin Chen, Lei Guo and Jun Ma
-    * url: [paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3186904) and [code](https://github.com/chenchongthu/EATNN)
-    * DataSet: [Ciao] and RMSE*
+    * url: [paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3186904)
+    * DataSet: [Ciao] and [Epinions]*
+    * Metrics: *MAE* and *RMSE* 
+
+* SIGIR2018: **Attentive Recurrent Social Recommendation**
+    * Author: Peijie Sun, Le Wu and Meng Wang
+    * url: [paper](http://www.le-wu.com/files/Publications/CONFERENCES/SIGIR%202018%20Attentive%20Recurrent%20Social%20Recommendation.pdf)
+    * DataSet: [Epinions] and [Gowalla]*
+    * Metrics: *HR@K* and *NDCG@K* 
+
+* AAAI2018: **Deep Modeling of Social Relations for Recommendation**
+    * Author: Wenqi Fan, Qing Li and Min Cheng
+    * url: [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16075)
+    * DataSet: [Ciao](http://www.cse.msu.edu/∼tangjili/index.html) and [Epinions](http://www.cse.msu.edu/∼tangjili/index.html)*
+    * Metrics: *MAE* and *RMSE* 
+
+* IEEE TRANSACTIONS ON SYSTEMS2018: **Collaborative Neural Social Recommendation**
+    * Author: Le Wu , Peijie Sun, Richang Hong , Yong Ge and Meng Wang
+    * url: [paper](http://www.le-wu.com/files/Publications/JOURNAL/TSMC-2021-CollaborativeNeuralSocialRecommendation.pdf)
+    * DataSet: [Flixster] and [Douban]*
+    * Metrics: *HR@K* and *NDCG@K* 
+
+
+## Collaborative-Filtering
+
+### 2019
+* IJCAI2019: **Feature Evolution Based Multi-Task Learning for Collaborative Filtering with Social Trust**
+    * Author: Qitian Wu, Lei Jiang, Xiaofeng Gao, Xiaochun Yang and Guihai Chen
+    * url: [paper](https://www.ijcai.org/proceedings/2019/0538.pdf)
+    * DataSet: [Epinions], [Ciao] and [FilmTrust]
+    * Metrics: *MAE* and *RMSE* 
+
+* IEEE TRANSACTIONS ON CYBERNETICS2019: **Exploiting Implicit Influence from Information Propagation for Social Recommendation**
+    * Author: Fei Xiong, Weihan Shen, Hongshu Chen, Shirui Pan, Ximeng Wang and Zheng Yan
+    * url: [paper](https://shiruipan.github.io/publication/tcyb-2019-xiong/tcyb-2019-xiong.pdf)
+    * DataSet: [Epinions] and [Ciao]
+    * Metrics: *MAE* and *RMSE* 
