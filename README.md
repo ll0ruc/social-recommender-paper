@@ -164,6 +164,12 @@ This repository provides a curated list of papers about social recommender syste
     * DataSet: [Douban](http://smiles.xjtu.edu.cn/Download/download), [LastFM](http://files.grouplens.org/datasets/hetrec2011/) and [Epinions](http://www.trustlet.org/downloaded)
     * Metrics: *Precision@K*, *Recall@K* and *NDCG@K*   
 
+* TKDE2019: **A Hierarchical Attention Model for Social Contextual Image Recommendation**
+    * Author: Le Wu, Lei Chen, Richang Hong, Yanjie Fu, Xing Xie and Meng Wang
+    * url: [paper](https://arxiv.org/pdf/1806.00723.pdf)
+    * DataSet: [F_S] and [F_L](a large dataset form Flickr)
+    * Metrics: *HR@K* and *NDCG@K*
+
 ### 2018
 * WWW2018: **Network Embedding Based Recommendation Method in Social Networks**
     * Author: Yufei Wen, Zhumin Chen, Lei Guo and Jun Ma
@@ -184,11 +190,16 @@ This repository provides a curated list of papers about social recommender syste
     * Metrics: *MAE* and *RMSE* 
 
 * IEEE TRANSACTIONS ON SYSTEMS2018: **Collaborative Neural Social Recommendation**
-    * Author: Le Wu , Peijie Sun, Richang Hong , Yong Ge and Meng Wang
+    * Author: Le Wu, Peijie Sun, Richang Hong, Yong Ge and Meng Wang
     * url: [paper](http://www.le-wu.com/files/Publications/JOURNAL/TSMC-2021-CollaborativeNeuralSocialRecommendation.pdf)
     * DataSet: [Flixster] and [Douban]*
     * Metrics: *HR@K* and *NDCG@K* 
 
+* SIGIR2017: **Item Silk Road: Recommending Items from Information Domains to Social Users**
+    * Author: Xiang Wang, Xiangnan He, Liqiang Nie and Tat-Seng Chua
+    * url: [paper](https://arxiv.org/pdf/1706.03205.pdf)
+    * DataSet: [Trip.com], [Facebook] and [Twitter]*
+    * Metrics: *AUC* and *Recall@K* 
 
 ## Collaborative-Filtering
 
