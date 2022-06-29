@@ -1,6 +1,8 @@
 # social-recommender-paper
 This repository provides a curated list of papers about social recommender system in recent years.
 
+A website link for accepted paper in recent years.
+KDD-2021[https://arxiv.org/pdf/2103.08976.pdf]
 
 # Table of Contents
 
