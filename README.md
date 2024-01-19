@@ -15,7 +15,7 @@ A website link for accepted paper in recent years.
 <br>SIGIR-2019 [https://sigir.org/sigir2019/program/accepted/]
 <br>SIGIR-2018 [https://sigir.org/sigir2018/accepted-papers/]
 <br>WWW-2023 [https://archives.iw3c2.org/www2023/program/accepted-papers/]
-<br>WWW-2022 [https://www2022.thewebconf.org/accepted-papers/]
+<br>WWW-2022 [https://archives.iw3c2.org/www2022/accepted-papers/]
 <br>WWW-2021 [https://www2021.thewebconf.org/program/papers/index.html]
 <br>WWW-2019 [https://thewebconf.org/www2019/accepted-papers/]
 <br>WWW-2018 [https://www2018.thewebconf.org/proceedings/]
