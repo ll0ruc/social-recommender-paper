@@ -3,12 +3,12 @@ This repository provides a curated list of papers about social recommender syste
 
 A website link for accepted paper in recent years.
 
-[br]KDD-2023 [https://kdd.org/kdd2023/research-track-papers-list/]
-[br]KDD-2022 [https://kdd.org/kdd2022/paperRT.html]
+<br>KDD-2023 [https://kdd.org/kdd2023/research-track-papers-list/]
+<br>KDD-2022 [https://kdd.org/kdd2022/paperRT.html]
 <br>KDD-2021 [https://kdd.org/kdd2021/accepted-papers/index]
 <br>KDD-2020 [https://www.kdd.org/kdd2020/accepted-papers]
 <br>KDD-2018 [https://www.kdd.org/kdd2018/accepted-papers]
-[br]SIGIR-2023 [https://sigir.org/sigir2023/program/accepted-papers/full-papers/]
+<br>SIGIR-2023 [https://sigir.org/sigir2023/program/accepted-papers/full-papers/]
 <br>SIGIR-2022 [https://sigir.org/sigir2022/program/accepted/]
 <br>SIGIR-2021 [https://sigir.org/sigir2021/accepted-papers/]
 <br>SIGIR-2020 [https://sigir.org/sigir2020/accepted-papers/]
