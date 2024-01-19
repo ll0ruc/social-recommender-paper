@@ -3,10 +3,12 @@ This repository provides a curated list of papers about social recommender syste
 
 A website link for accepted paper in recent years.
 
-KDD-2022 [https://kdd.org/kdd2022/paperRT.html]
+[br]KDD-2023 [https://kdd.org/kdd2023/research-track-papers-list/]
+[br]KDD-2022 [https://kdd.org/kdd2022/paperRT.html]
 <br>KDD-2021 [https://kdd.org/kdd2021/accepted-papers/index]
 <br>KDD-2020 [https://www.kdd.org/kdd2020/accepted-papers]
 <br>KDD-2018 [https://www.kdd.org/kdd2018/accepted-papers]
+[br]SIGIR-2023 [https://sigir.org/sigir2023/program/accepted-papers/full-papers/]
 <br>SIGIR-2022 [https://sigir.org/sigir2022/program/accepted/]
 <br>SIGIR-2021 [https://sigir.org/sigir2021/accepted-papers/]
 <br>SIGIR-2020 [https://sigir.org/sigir2020/accepted-papers/]
@@ -17,15 +19,18 @@ KDD-2022 [https://kdd.org/kdd2022/paperRT.html]
 <br>WWW-2021 [https://www2021.thewebconf.org/program/papers/index.html]
 <br>WWW-2019 [https://thewebconf.org/www2019/accepted-papers/]
 <br>WWW-2018 [https://www2018.thewebconf.org/proceedings/]
+<br>CIKM-2023 [https://sigir.org/sigir2023/program/accepted-papers/full-papers/]
 <br>CIKM-2022 [https://www.cikm2022.org/papers-posters]
 <br>CIKM-2021 [https://www.cikm2021.org/accepted-papers]
 <br>CIKM-2020 [https://www.cikm2020.org/accepted-papers/]
+<br>WSDM-2024 [https://www.wsdm-conference.org/2024/accepted-papers/]
 <br>WSDM-2023 [https://www.wsdm-conference.org/2023/program/accepted-papers]
 <br>WSDM-2022 [https://www.wsdm-conference.org/2022/accepted-papers/]
 <br>WSDM-2021 [https://www.wsdm-conference.org/2021/accepted-papers.php]
 <br>WSDM-2020 [https://www.wsdm-conference.org/2020/accepted-papers.php]
 <br>WSDM-2019 [https://www.wsdm-conference.org/2019/accepted-papers.php]
 <br>WSDM-2018 [https://www.wsdm-conference.org/2018/accepted-papers.html]
+<br>RecSys-2023 [https://recsys.acm.org/recsys23/accepted-contributions/]
 
 # Table of Contents
 
