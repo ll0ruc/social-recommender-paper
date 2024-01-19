@@ -20,7 +20,7 @@ A website link for accepted paper in recent years.
 <br>WWW-2019 [https://thewebconf.org/www2019/accepted-papers/]
 <br>WWW-2018 [https://www2018.thewebconf.org/proceedings/]
 <br>CIKM-2023 [https://sigir.org/sigir2023/program/accepted-papers/full-papers/]
-<br>CIKM-2022 [https://www.cikm2022.org/papers-posters]
+<br>CIKM-2022 [https://archives.iw3c2.org/www2022/accepted-papers/]
 <br>CIKM-2021 [https://www.cikm2021.org/accepted-papers]
 <br>CIKM-2020 [https://www.cikm2020.org/accepted-papers/]
 <br>WSDM-2024 [https://www.wsdm-conference.org/2024/accepted-papers/]
